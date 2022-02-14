@@ -47,7 +47,7 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
-    "react-native-gesture-handler": "1.10.2"
+    "react-native-gesture-handler": "*"
   },
   "devDependencies": {
     "@types/react": "^17.0.5",
